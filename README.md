@@ -9,5 +9,8 @@
 📄 [260605_포트폴리오.pdf](https://github.com/giljihun/portfolio/blob/main/0605_%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9.pdf)
 > **20260605**
 
+📄 [260902 포트폴리오.pdf](https://github.com/giljihun/portfolio/blob/main/0902_%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9.pdf)  
+> **20260902**
+
 📄 [260915_포트폴리오.pdf](https://github.com/giljihun/portfolio/blob/main/0915_%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9.pdf)  
-> **20260605**
+> **20260915**
